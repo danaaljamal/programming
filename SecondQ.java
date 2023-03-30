@@ -7,9 +7,9 @@ public class SecondQ {
 
 		        for (int num = 1; num <= 50; num++) {
 		            if (num % 2 == 0) {
-		              
+		              even++;
 		            } else {
-		                
+		               odd++ ;
 		            }
 		        }
 
